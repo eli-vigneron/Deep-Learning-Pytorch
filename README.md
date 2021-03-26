@@ -1,2 +1,2 @@
-# pytorch_collection
-Pytorch Exercises and Examples
+# Pytorch Deep Learning
+A collection of deep learning projects done in pytorch
